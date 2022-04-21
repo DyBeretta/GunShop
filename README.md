@@ -1,2 +1,2 @@
 # GunShop
-Summaative Assignment JAVA OOP Module
+Summative Assignment JAVA OOP Module

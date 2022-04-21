@@ -15,7 +15,7 @@ public class Main extends Application {
     }
 
     @Override
-    public void start(Stage stage) throws Exception {
+    public void start(Stage stage) {
         try {
             Group root = new Group();
             Scene scene = new Scene(root, Color.BLACK);
